@@ -107,7 +107,7 @@ int main()
     printf("Densidade Populacional: %.2f hab/km²\n", (float)densidade2);
     printf("PIB per Capita: %.2f Reais\n", (float)capita2);
     printf("Super Poder: %.2f\n", (float)superpoder2);
-    // Menu que permite o usuario escolher qual atributo ele quer comparar.
+    // Menu que permite o usuario escolher qual atributo ele quer comparar
     printf("### Hora da Comparaçao! ###\n");
     printf("Escolha 1 atributo para comparaçao!\n");
     printf("1. Populacao\n");
